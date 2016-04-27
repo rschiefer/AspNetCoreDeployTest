@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{66F7FFDF-1AA5-4B6E-BCC6-E3428E4D3CBE}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		preBuild.ps1 = preBuild.ps1
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AspNetCoreDeployTest", "src\AspNetCoreDeployTest\AspNetCoreDeployTest.xproj", "{ACC3AE7A-E598-495C-BCA4-1B42F8DB7A9C}"
